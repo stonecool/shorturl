@@ -1,8 +1,8 @@
-# shorturl
+# OpenResty shorturl
 
-基于OpenResty短地址服务
-- 使用Redis存储，
-- 数据落地到MySQL采用基于Redis的MQ
+基于OpenResty实现短地址生成服务
+- 使用Redis存储
+- 数据落地到MySQL采用基于Redis的[MQ](https://github.com/stonecool/messagequeue)
 
 ```Shell
 	curl -X POST \
