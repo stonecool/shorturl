@@ -1,0 +1,3 @@
+logs/nginx.pid
+logs/access.log
+logs/error.log

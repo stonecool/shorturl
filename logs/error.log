@@ -1,0 +1,8 @@
+2018/04/01 00:34:18 [alert] 24003#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:17
+2018/04/01 00:34:18 [notice] 24003#0: using the "epoll" event method
+2018/04/01 00:34:18 [notice] 24003#0: openresty/1.11.2.4
+2018/04/01 00:34:18 [notice] 24003#0: built by gcc 4.4.7 20120313 (Red Hat 4.4.7-18) (GCC) 
+2018/04/01 00:34:18 [notice] 24003#0: OS: Linux 2.6.32-696.16.1.el6.x86_64
+2018/04/01 00:34:18 [notice] 24003#0: getrlimit(RLIMIT_NOFILE): 65535:65535
+2018/04/01 00:34:18 [notice] 24004#0: start worker processes
+2018/04/01 00:34:18 [notice] 24004#0: start worker process 24005
